@@ -1,12 +1,12 @@
-# Makruk Assistant
+# Makrukthai Assistant
 ![Makrukthai Assistant Screenshot](https://raw.githubusercontent.com/natstpt/Makrukthai-Assistant/main/screencapture2.png)
 ![Makrukthai Assistant Screenshot](https://raw.githubusercontent.com/natstpt/Makrukthai-Assistant/main/screencapture1.png)
 
-Makruk Assistant is a Python application that helps users analyze Makruk (Thai Chess) positions by suggesting the best moves using the Fairy-Stockfish chess engine. It captures a screenshot of the Makruk board, detects the pieces, and displays the suggested moves as transparent colored dots on the board.
+Makrukthai Assistant is a Python application that helps users analyze Makrukthai (Thai Chess) positions by suggesting the best moves using the Fairy-Stockfish chess engine. It captures a screenshot of the Makrukthai board, detects the pieces, and displays the suggested moves as transparent colored dots on the board.
 
 ## Features
 
-- Captures a screenshot of the Makruk board.
+- Captures a screenshot of the Makrukthai board.
 - Detects the pieces on the board using OpenCV and template matching.
 - Generates a FEN (Forsyth-Edwards Notation) string representing the board position.
 - Passes the FEN string to the Fairy-Stockfish chess engine to get the best moves.
@@ -14,7 +14,7 @@ Makruk Assistant is a Python application that helps users analyze Makruk (Thai C
 
 ## Prerequisites
 
-To use the Makruk Assistant, you need to have the following installed:
+To use the Makrukthai Assistant, you need to have the following installed:
 
 - Python 3.9 or higher
 - PyQt5
@@ -23,9 +23,8 @@ To use the Makruk Assistant, you need to have the following installed:
 
 Additionally, you will need:
 
-- Fairy-Stockfish chess engine
-- Grayscale template images of the Makruk pieces
-- NNUE evaluation file for Makruk
+- Fairy-Stockfish chess variant engine: [Download](https://github.com/ianfab/Fairy-Stockfish) store in engine directory
+- Template images of the Makrukthai pieces: from [PlayOK](https://www.playok.com/th/makruk/).
 
 ## Installation
 
