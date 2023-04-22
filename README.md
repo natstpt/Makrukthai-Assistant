@@ -9,7 +9,6 @@ Makrukthai Assistant is a Python application that helps users analyze Makrukthai
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -69,10 +68,6 @@ python makruk_assistant_black.py
 ```
 
 3. The script will capture the Makruk board, detect the pieces, and display the suggested moves as transparent colored dots on the board.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
