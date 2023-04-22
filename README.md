@@ -15,7 +15,7 @@ Makrukthai Assistant is a Python application that helps users analyze Makrukthai
 
 To use the Makrukthai Assistant, you need to have the following installed:
 
-- Python 3.9 or higher
+- Python 3.9.13 or newer
 - PyQt5
 - pyautogui
 - OpenCV
