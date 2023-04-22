@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 I would like to express our gratitude to the following resources:
 
 1. **Pieces image**: The piece images used in this project are sourced from [PlayOK](https://www.playok.com/th/makruk/).
-2. **Analysis**: The board analysis feature in our project is made possible by leveraging the FEN string processing capabilities of [PyChess](https://www.pychess.org/analysis/makruk).
+2. **Fairy-Stockfish**: This project utilizes the [Fairy Stockfish](https://github.com/ianfab/Fairy-Stockfish) engine, a powerful and highly configurable chess variant engine developed by Fabian Fichter. We would like to express our gratitude to Fabian and the entire Fairy Stockfish community for their incredible work and for making this project possible.
