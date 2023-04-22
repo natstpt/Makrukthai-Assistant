@@ -3,6 +3,16 @@
 
 Makrukthai Assistant is a Python application that helps users analyze Makrukthai (Thai Chess) positions by suggesting the best moves using the Fairy-Stockfish chess engine. It captures a screenshot of the Makrukthai board, detects the pieces, and displays the suggested moves as transparent colored dots on the board.
 
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Features
 
 - Captures a screenshot of the Makrukthai board.
